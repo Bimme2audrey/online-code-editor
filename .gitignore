@@ -48,3 +48,18 @@ jspm_packages/
 *.dll
 *.so
 *.dylib
+
+# Firebase Admin service key
+serviceAccoountKey.json
+
+
+# not imported anywhere
+CodeEditor.jsx
+EditorToolbar.jsx
+PreviewFrame.jsx
+Sidebar.jsx
+UserList.jsx
+ChatPanel.jsx
+ChatPanel.css
+UseProfile.jsx
+UseProfile.css
